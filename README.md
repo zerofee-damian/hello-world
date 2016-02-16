@@ -1,2 +1,3 @@
 # hello-world
-Hello world git test
+
+This is a Git learning exercise
